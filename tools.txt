@@ -2,4 +2,9 @@ guru
 kadapa
 phone
 apple
+<<<<<<< HEAD
 orange
+=======
+orange
+grapes
+>>>>>>> develop
