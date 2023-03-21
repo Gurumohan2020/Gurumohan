@@ -1,3 +1,5 @@
 guru
 kadapa
 phone
+apple
+orange
